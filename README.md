@@ -1,6 +1,6 @@
 # Spawn
 
-**TODO: Add description**
+Spawn examples from the programming elixir book
 
 ## Installation
 
